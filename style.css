@@ -117,22 +117,4 @@ h4:hover{
 }
 /* attached to the file youtube.html */
 
-@media(width: 412px){
-    .none{
-        display:none;
-    }
-    .nav{
-        display:flex;
-        justify-content:space-evenly;
-        width:45vh;
-    }
-    input{
-        display:none;
-    }
-    .main{
-        width:45vh;
-    }
 
-    
-
-}
